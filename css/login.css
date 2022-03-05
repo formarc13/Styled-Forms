@@ -1,0 +1,12 @@
+section.login .input_check-container {
+    margin-bottom: 1rem;
+}
+/* 
+section.login .input_check-container label {
+    position: relative;
+    top: -1px;
+} */
+
+section.login {
+    max-width: 375px;
+}
